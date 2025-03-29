@@ -7,7 +7,8 @@ You should set the proxy server in these format
 address:port
 
 example-
-
+<pre>
 192.168.49.1:8282
-   ^           ^
+   ^          ^ 
 address      port
+</pre>
